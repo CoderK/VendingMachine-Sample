@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bd88657-4ac2-4a6b-b812-1488331e8a67" name="Default" comment="" />
+    <ignored path="VendingMachine-Sample.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="VendingMachine-Sample" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.48676825">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="vending_machine.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vending_machine.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="134" column="7" selection-start="5679" selection-end="5679" vertical-scroll-proportion="-16.518518" vertical-offset="2100" max-vertical-offset="2717">
+                  <folding>
+                    <marker date="1388905693000" expanded="true" signature="2607:4829" placeholder="..." />
+                    <marker date="1388905693000" expanded="true" signature="2637:4818" placeholder="..." />
+                    <marker date="1388905693000" expanded="true" signature="2695:2903" placeholder="..." />
+                    <marker date="1388905693000" expanded="true" signature="2938:4537" placeholder="..." />
+                    <marker date="1388905693000" expanded="true" signature="3042:3529" placeholder="..." />
+                    <marker date="1388905693000" expanded="true" signature="3579:4518" placeholder="..." />
+                    <marker date="1388905693000" expanded="true" signature="3605:3865" placeholder="..." />
+                    <marker date="1388905693000" expanded="true" signature="3927:4422" placeholder="..." />
+                    <marker date="1388905693000" expanded="true" signature="4595:4803" placeholder="..." />
+                    <marker date="1388905693000" expanded="true" signature="4898:5129" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="vending_machine.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/vending_machine.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="59" column="0" selection-start="3859" selection-end="3859" vertical-scroll-proportion="-11.346154" vertical-offset="826" max-vertical-offset="1444">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="VendingMachineModel.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/VendingMachineModel.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="49" column="25" selection-start="1255" selection-end="1255" vertical-scroll-proportion="-5.5985403" vertical-offset="3232" max-vertical-offset="3876">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Wallet.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/Wallet.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="60" column="0" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0" vertical-offset="230" max-vertical-offset="1805">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="VendingMachineView.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/VendingMachineView.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="84" column="9" selection-start="2518" selection-end="2518" vertical-scroll-proportion="-8.653846" vertical-offset="1371" max-vertical-offset="3325">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="VendingMachine.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/VendingMachine.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="65" column="5" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1425">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="VendingMachine.qunit.js" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test/VendingMachine.qunit.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="263" column="57" selection-start="8334" selection-end="8334" vertical-scroll-proportion="0.6617647" vertical-offset="4727" max-vertical-offset="7220">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sinon-qunit-1.0.0.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vendor/sinon/sinon-qunit-1.0.0.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="62" column="0" selection-start="2435" selection-end="2435" vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="1292">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="VendingMachine.qunit.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test/VendingMachine.qunit.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="61" column="20" selection-start="2748" selection-end="2748" vertical-scroll-proportion="-18.296297" vertical-offset="665" max-vertical-offset="1805">
+                  <folding>
+                    <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <marker date="1388905634000" expanded="true" signature="774:2808" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="800:2801" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="854:1050" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="1081:2552" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="1177:1636" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="1682:2537" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="1704:1948" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="2002:2449" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="2606:2790" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="2877:3112" placeholder="..." />
+                    <marker date="1388905634000" expanded="true" signature="3298:3341" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test/qunit.spec.js" />
+        <option value="$PROJECT_DIR$/test/qunit.spec.html" />
+        <option value="$PROJECT_DIR$/vendor/sinon/sinon-qunit.1.0.0.js" />
+        <option value="$PROJECT_DIR$/vendor/sinon/sinon-1.7.3.js" />
+        <option value="$PROJECT_DIR$/js/Waller.js" />
+        <option value="$PROJECT_DIR$/css/vending_machine.css" />
+        <option value="$PROJECT_DIR$/test/VendingMachine.qunit.html" />
+        <option value="$PROJECT_DIR$/js/VendingMachinePresenter.js" />
+        <option value="$PROJECT_DIR$/js/VendingMachineMachine.js" />
+        <option value="$PROJECT_DIR$/vending_machine.html" />
+        <option value="$PROJECT_DIR$/js/Wallet.js" />
+        <option value="$PROJECT_DIR$/js/VendingMachineView.js" />
+        <option value="$PROJECT_DIR$/test/VendingMachine.qunit.js" />
+        <option value="$PROJECT_DIR$/js/VendingMachine.js" />
+        <option value="$PROJECT_DIR$/js/VendingMachineModel.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="798" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sinon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jindo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VendingMachine-Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VendingMachine" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vendor/jindo" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bd88657-4ac2-4a6b-b812-1488331e8a67" name="Default" comment="" />
+      <created>1388815055212</created>
+      <updated>1388815055212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="798" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32909605" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.114869624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vending_machine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="23" selection-start="5864" selection-end="5864" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3287">
+          <folding>
+            <marker date="1388905693000" expanded="true" signature="2607:4829" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="2637:4818" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="2695:2903" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="2938:4537" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3042:3529" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3579:4518" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3605:3865" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3927:4422" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="4595:4803" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="4898:5129" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/VendingMachineModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="28" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/VendingMachineView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="28" selection-start="2569" selection-end="2593" vertical-scroll-proportion="0.0" vertical-offset="1691" max-vertical-offset="2185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/VendingMachine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="19" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="912">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/VendingMachine.qunit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="286" column="0" selection-start="9048" selection-end="9048" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5814">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/sinon/sinon-qunit-1.0.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="2435" selection-end="2435" vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/VendingMachine.qunit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="63" selection-start="2803" selection-end="2803" vertical-scroll-proportion="0.0" vertical-offset="1072" max-vertical-offset="1710">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1388905634000" expanded="true" signature="774:2808" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="800:2801" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="854:1050" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1081:2552" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1177:1636" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1682:2537" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1704:1948" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="2002:2449" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="2606:2790" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="2877:3112" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="3298:3341" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vending_machine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="23" selection-start="5864" selection-end="5864" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3287">
+          <folding>
+            <marker date="1388905693000" expanded="true" signature="2607:4829" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="2637:4818" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="2695:2903" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="2938:4537" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3042:3529" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3579:4518" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3605:3865" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3927:4422" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="4595:4803" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="4898:5129" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/VendingMachineModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="27" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="1254">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/VendingMachineView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="42" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/VendingMachine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="836">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/VendingMachine.qunit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="259" column="13" selection-start="8262" selection-end="8262" vertical-scroll-proportion="0.0" vertical-offset="4541" max-vertical-offset="5282">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/sinon/sinon-qunit-1.0.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="2435" selection-end="2435" vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/VendingMachine.qunit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="63" selection-start="2803" selection-end="2803" vertical-scroll-proportion="0.0" vertical-offset="1072" max-vertical-offset="1710">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1388905634000" expanded="true" signature="774:2808" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="800:2801" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="854:1050" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1081:2552" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1177:1636" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1682:2537" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1704:1948" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="2002:2449" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="2606:2790" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="2877:3112" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="3298:3341" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jindo/jindo.desktop.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="664">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/sinon/sinon-1.7.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="787" selection-end="787" vertical-scroll-proportion="0.53271025" vertical-offset="0" max-vertical-offset="81624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/sinon/sinon-qunit-1.0.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="2435" selection-end="2435" vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jindo/jindo_component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/vending_machine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="3859" selection-end="3859" vertical-scroll-proportion="-11.346154" vertical-offset="826" max-vertical-offset="1444">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vending_machine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="7" selection-start="5679" selection-end="5679" vertical-scroll-proportion="-16.518518" vertical-offset="2100" max-vertical-offset="2717">
+          <folding>
+            <marker date="1388905693000" expanded="true" signature="2607:4829" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="2637:4818" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="2695:2903" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="2938:4537" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3042:3529" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3579:4518" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3605:3865" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="3927:4422" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="4595:4803" placeholder="..." />
+            <marker date="1388905693000" expanded="true" signature="4898:5129" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Wallet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0" vertical-offset="230" max-vertical-offset="1805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/VendingMachineView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="9" selection-start="2518" selection-end="2518" vertical-scroll-proportion="-8.653846" vertical-offset="1371" max-vertical-offset="3325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/VendingMachine.qunit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="20" selection-start="2748" selection-end="2748" vertical-scroll-proportion="-18.296297" vertical-offset="665" max-vertical-offset="1805">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1388905634000" expanded="true" signature="774:2808" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="800:2801" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="854:1050" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1081:2552" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1177:1636" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1682:2537" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="1704:1948" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="2002:2449" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="2606:2790" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="2877:3112" placeholder="..." />
+            <marker date="1388905634000" expanded="true" signature="3298:3341" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/VendingMachine.qunit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="263" column="57" selection-start="8334" selection-end="8334" vertical-scroll-proportion="0.6617647" vertical-offset="4727" max-vertical-offset="7220">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/VendingMachine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="5" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/VendingMachineModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="25" selection-start="1255" selection-end="1255" vertical-scroll-proportion="-5.5985403" vertical-offset="3232" max-vertical-offset="3876">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
